@@ -1,1 +1,5 @@
+Write the code in SRC folder or in any package as usual code
 
+After completion of the code. Run the above script using testng.xml (how to follow the process i have explained in the xml sheet) outside of the folder.
+
+The results u can seen in the Outfile file jst like testng with new name "Custom Reports"
